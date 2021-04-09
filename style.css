@@ -1,0 +1,71 @@
+h1{
+	color: black;
+	font-family: Montserrat;
+	text-align: center;
+	background-color: yellow;
+	padding: 30px;
+}
+
+hr{
+	border: 2px ridge black;
+	width: 50%;
+}
+
+p{
+	font-family: Montserrat;
+	margin-left: 100px;
+	margin-right:100px;
+	margin-top: 25px;
+}
+
+img {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 150px;
+}
+
+.container{
+	text-align: center;
+}
+
+/*accessing class*/
+.special{
+	font-size: 25px;
+}
+
+/*accessing id*/
+#sp{
+	color: red;
+}
+
+header{
+	background-color: black;
+	padding: 10px;
+}
+
+ul{
+	list-style: none;
+}
+
+li{
+	display: inline;
+	margin: 150px
+}
+
+li a{
+	color: white;
+	text-decoration: none;
+	font-family: Montserrat
+}
+
+li a:hover{
+	color: yellow;
+}
+
+footer{
+	background-color: black;
+	color: white;
+	padding: 5px;
+	text-align: center;
+}
